@@ -2,7 +2,7 @@
 A useful application for everyone who has many emails and must save them..a program designed to save thousands of emails and save them in a computer safely.
 
 ### Choose a language :
-[Arabic - العربية](https://github.com/AliAdnanc7/Email-saving-system/blob/main/languages/Arabic.md)
+[Arabic - العربية](https://github.com/AliAdnanc7/Email-saving-system/blob/main/language/Arabic.md)
 ### Screenshot of the program :
 
 ![Screenshot on 08-05-2022](https://github.com/AliAdnanc7/Email-saving-system/blob/main/Screenshots/Screenshot%202022-08-05.png)
