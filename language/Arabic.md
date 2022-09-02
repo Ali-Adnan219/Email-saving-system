@@ -3,7 +3,7 @@
 
 ### اختر لغة  :
 [English](https://github.com/AliAdnanc7/Email-saving-system)
-### صور من برنامج :
+### صور من البرنامج :
 
 ![صور في تاريخ 08-05-2022](https://github.com/AliAdnanc7/Email-saving-system/blob/main/Screenshots/Screenshot.png)
 
@@ -13,7 +13,7 @@
 pip install PySide6
 ```
 
-### لتشغيل برنامج:
+### لتشغيل البرنامج:
 
 ```bash
 python3 main.py
