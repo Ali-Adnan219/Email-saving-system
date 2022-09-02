@@ -5,7 +5,7 @@ A useful application for everyone who has many emails and must save them..a prog
 [Arabic - العربية](https://github.com/AliAdnanc7/Email-saving-system/blob/main/language/Arabic.md)
 ### Screenshot of the program :
 
-![Screenshot on 08-05-2022](https://github.com/AliAdnanc7/Email-saving-system/blob/main/Screenshots/Screenshot(29).png)
+![Screenshot on 08-05-2022](https://github.com/AliAdnanc7/Email-saving-system/blob/main/Screenshots/Screenshot%20(29).png)
 
 
 ### to install:
