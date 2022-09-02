@@ -5,7 +5,7 @@
 [English](https://github.com/AliAdnanc7/Email-saving-system)
 ### صور من برنامج :
 
-![صور في تاريخ 08-05-2022](https://github.com/AliAdnanc7/Email-saving-system/blob/main/Screenshots/Screenshot%202022-08-05.png)
+![صور في تاريخ 08-05-2022](https://github.com/AliAdnanc7/Email-saving-system/blob/main/Screenshots/Screenshot.png)
 
 
 ### لتثبيت المكتبات:
