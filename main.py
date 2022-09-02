@@ -65,7 +65,7 @@ if __name__ == "__main__":
         sys.exit(-1)
     window.show()
     #del by id
-    window.pushButton.clicked.connect(lambda: deleteitem(window.lineEdit.text()))
+    #window.pushButton.clicked.connect(lambda: deleteitem(window.lineEdit.text()))
     #insert data
     window.pushButton_2.clicked.connect(lambda: insert(window.lineEdit_3.text(),window.lineEdit_4.text(),window.lineEdit_2.text(),window.lineEdit_5.text(),datetime.today().strftime('%Y-%m-%d')))
     #show data
